@@ -122,4 +122,8 @@ L<Text::Table::Tiny>
 
 L<Bencher::Scenario::TextTableModules>.
 
+L<https://en.wikipedia.org/wiki/Delimiter-separated_values>
+
+L<https://en.wikipedia.org/wiki/C0_and_C1_control_codes#Field_separators>
+
 =cut
